@@ -41,3 +41,4 @@ Alternativamente: `python -m ppgfis_plotter`.
 - Preferências do usuário são armazenadas na pasta do projeto, como na versão de teste.
 - Recomenda-se validar as abas Bandas, DOS e PDOS com arquivos reais antes de distribuir a terceiros.
 - Para distribuir um executável sem Python, é necessária uma etapa adicional de empacotamento (por exemplo, PyInstaller), não incluída neste ZIP.
+# PPGFIS-DFT-Plotter
